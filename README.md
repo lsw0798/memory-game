@@ -1,6 +1,8 @@
 # memory-game
 Android Studio를 이용해 만든 카드 뒤집기 메모리게임
 
+[디자인 계획 - Figma](https://www.figma.com/design/utdsvX9imzFGH1IEPrix0x/Memory-game?node-id=0-1&t=Qicbqv3VSATxp2CP-1)
+
 ### 필요 요소
 * 카드
 * 타이머
